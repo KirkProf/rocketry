@@ -8,3 +8,4 @@ The data is position is posted onto the video.
 the video records for 30 seconds at a time.  Additional recordings or stops may be called by pressing the button again.
 this is a bit barebones, but hey.  it might log something and tell me where to find my rocket.
 everysensor*.* is the file that goes on the rpi that is on the rocket
+receive*.* is the file for the rpi reciever with lcd screen and pushbuttons
