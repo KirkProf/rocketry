@@ -7,3 +7,4 @@ the current refresh rate is a bit slow, but it all works, updating results about
 The data is position is posted onto the video.
 the video records for 30 seconds at a time.  Additional recordings or stops may be called by pressing the button again.
 this is a bit barebones, but hey.  it might log something and tell me where to find my rocket.
+everysensor*.* is the file that goes on the rpi that is on the rocket
